@@ -1,0 +1,16 @@
+﻿units = {
+
+	##### Naval OOB #####
+	fleet = {
+		name = "Royal Onion Navy"			
+		naval_base = 7566 # Townsville
+		task_force = {
+			name = "Onion Squadron"
+			location = 7566 # Townsville
+			ship = { name = "HMOS Kage" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = AST version_name = "V/W Class" } } }
+			ship = { name = "HMOS Slump" definition = destroyer equipment = { ship_hull_light_1 = { amount = 1 owner = AST version_name = "S Class" } } }
+		}				
+	}
+}
+
+
